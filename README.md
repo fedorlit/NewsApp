@@ -1,6 +1,6 @@
 ## 📱 App Screenshots
 
-Algunas capturas de pantalla de la Aplicación:
+Estas son las 3 pantallas principales de la App
 
 | Home Screen | Article Selected | Article Opened |
 |-------------|------------------|----------------|
