@@ -2,8 +2,7 @@
 ​
  Una aplicación Android que muestra las últimas noticias
  
- ## 🛠️ Tecnologías utilizadas
-​
+ ## 🛠️ Tecnologías utilizadas​
  - **Kotlin**: Lenguaje principal de desarrollo.
  - **Jetpack Compose**: Para la creación de la interfaz de usuario declarativa.
  - **Hilt (Dagger)**: Para la inyección de dependencias.
